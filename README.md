@@ -16,7 +16,9 @@ $ python duplicates.py <path to directory> # possibly requires call of python3 e
 
 # Output Example
 
-
+    8_orders_2017_02_08_150102_1.xml   1203
+    8_orders_2017_02_08_150502_1.xml   1310
+    8_orders_2017_02_08_154301_1.xml   1772
 
 # Project Goals
 
