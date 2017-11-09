@@ -19,7 +19,7 @@ def get_files_list(dir_path):
 
 def get_duplicates(files_list):
 
-    counted_files = Counter(files_list)
+    counted_files = Counter(files_list).most_common()
 
     duplicates = [file_counter[0] for file_counter in counted_files if file_counter[1] > 1]
 
