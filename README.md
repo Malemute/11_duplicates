@@ -1,6 +1,6 @@
 # Anti-Duplicator
 
-This script finds finds similar files (by name and size) in a given folder, and prints their list.
+This script finds similar files (by name and size) in a given folder, and prints their list.
 
 # Quickstart
 
